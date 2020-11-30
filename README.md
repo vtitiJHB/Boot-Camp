@@ -1,5 +1,6 @@
 # WTC Boot Camp
-> WeThinkCode_ Selection Boot Camp Completions, for 15-27 June 2020 (Covid-Lockdown-Level-3). Exercises are in shell and C.
+> WeThinkCode_ Selection Boot Camp Completions, for 15-27 June 2020 (Covid-Lockdown-Level-3). 
+> Exercises are in shell and C.
 
 ## Contents
 ### d00
