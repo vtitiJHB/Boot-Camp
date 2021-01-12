@@ -1,29 +1,25 @@
 # Boot Camp
-> Daily exercises.
+
+Some of the daily exercises.
 
 ## Contents
-### d00
-- author
-- email
-- slack
-- registration
-- kerberos
-- vogsphere
-- midLS
-- z
-- b
-- clean
-### d01
-- Exam
-- who_am_i
-- print_groups
-- find_sh
-- count_files
-- MAC
-- "\?$*'KwaMe'*$?\"
-- skip
-- r_dwssap
-- strange_add
+
+### Day 00
+
+* midLS
+* z
+* clean
+
+### Day 01
+
+* print_groups
+* find_sh
+* count_files
+* MAC
+* "\\?\$\*'KwaMe'\*\$?\\"
+* skip
+* r_dwssap
+* strange_add
 ### d02
 - ft_print_alphabet
 - ft_print_reverse_alphabet
