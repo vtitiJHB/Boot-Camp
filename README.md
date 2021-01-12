@@ -1,5 +1,5 @@
 # Boot Camp
-> Daily exercies.
+> Daily exercises.
 
 ## Contents
 ### d00
