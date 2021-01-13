@@ -55,3 +55,4 @@ int    ft_atoi(char *str)
 		number = (number * 10) + (*str++ - '0');
 	}
 	return number * sign;
+}
