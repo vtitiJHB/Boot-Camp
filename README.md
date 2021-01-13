@@ -1,4 +1,4 @@
-# BOOT CAMP
+# Boot Camp
 
 ## Contents
 
