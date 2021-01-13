@@ -1,0 +1,1 @@
+echo $(echo "obase=13;ibase=5;$(echo $(echo $FT_NBR1 | sed -e "s/'/0/g" -e 's/\\/1/g' -e 's/"/2/g' -e 's/?/3/g' -e 's/!/4/g') + $(echo $FT_NBR2 | tr "mrdoc" "01234") | bc)" | bc) | sed -e 's/0/g/g' -e 's/1/t/g' -e 's/2/a/g' -e 's/3/i/g' -e 's/4/o/g' -e 's/5/ /g' -e 's/6/l/g' -e 's/7/u/g' -e 's/8/S/g' -e 's/9/n/g' -e 's/10/e/g' -e 's/11/m/g' -e 's/12/f/g'
