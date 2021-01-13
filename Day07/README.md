@@ -6,4 +6,4 @@ Reproduce the behavior of the function strdup (man strdup).
 
 ---
 
-[Back to Contents](../README.md)
+[Back to Contents](../README.md#Day-07)

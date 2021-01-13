@@ -68,4 +68,4 @@ n will be so that: 0 < n < 10.
 
 ---
 
-[Back to Contents](../README.md)
+[Back to Contents](../README.md#Day-02)

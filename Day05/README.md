@@ -24,4 +24,4 @@ Reproduce the behavior of the function strcmp (man strcmp).
 
 ---
 
-[Back to Contents](../README.md)
+[Back to Contents](../README.md#Day-05)

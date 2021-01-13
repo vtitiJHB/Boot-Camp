@@ -8,4 +8,4 @@ It contains all prototypes of your libft.a functions.
 
 ---
 
-[Back to Contents](../README.md)
+[Back to Contents](../README.md#Day-08)

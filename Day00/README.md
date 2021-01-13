@@ -42,4 +42,4 @@ no ’;’ or ’&&’ or other shenanigans.
 
 ---
 
-[Back to Contents](../README.md)
+[Back to Contents](../README.md#Day-00)
