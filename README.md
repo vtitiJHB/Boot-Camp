@@ -17,7 +17,7 @@
 * [Can you create it?](./Day01/README.md#Can-you-create-it?)
 * [skip](./Day01/README.md#skip)
 * [r_dwssap](./Day01/README.md#r_dwssap)
-* [strange_add](./Day01/README.md#strange_add#strange_add)
+* [strange_add](./Day01/README.md#strange_add##strange_add)
 
 ### Day 02
 
