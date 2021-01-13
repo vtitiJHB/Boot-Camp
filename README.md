@@ -14,7 +14,7 @@
 * [find_sh](./Day01/README.md)
 * [count_files](./Day01/README.md)
 * [MAC](./Day01/README.md)
-* ["\\?\$\*'KwaMe'\*\$?\\"](./Day01/README.md)
+* [Can you create it?](./Day01/README.md)
 * [skip](./Day01/README.md)
 * [r_dwssap](./Day01/README.md)
 * [strange_add](./Day01/README.md)
