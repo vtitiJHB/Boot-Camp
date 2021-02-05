@@ -1,4 +1,6 @@
-# Boot Camp
+# Selection BootCamp
+
+Daily C and shell exercises.
 
 ## Contents
 
