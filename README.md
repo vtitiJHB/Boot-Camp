@@ -1,6 +1,6 @@
 # Selection BootCamp
 
-Daily C and shell exercises.
+Daily exercises in shell and C.
 
 ## Contents
 
