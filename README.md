@@ -1,3 +1,5 @@
+[![BCH compliance](https://bettercodehub.com/edge/badge/vtitiJHB/Boot-Camp?branch=main)](https://bettercodehub.com/)
+
 # Selection BootCamp
 
 Daily exercises in shell and C.
